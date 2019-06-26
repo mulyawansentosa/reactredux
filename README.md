@@ -5,4 +5,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This is implementation of Redux on React
 
 ## Result
-<img src="">
+<img src="https://github.com/mulyawansentosa/reactredux/blob/master/images/result.png">
